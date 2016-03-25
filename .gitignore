@@ -1,0 +1,10 @@
+/node_modules
+.vagrant
+/dist
+/.tmp
+/.sass-cache
+bower_components
+env
+.env
+*.pyc
+*.pid
